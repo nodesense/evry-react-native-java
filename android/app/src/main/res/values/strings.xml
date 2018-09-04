@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReactNativeApp</string>
+    <string name="title_activity_android_ui">AndroidUIActivity</string>
+</resources>
